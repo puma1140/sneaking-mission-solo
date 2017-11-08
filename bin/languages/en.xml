@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<texts>
+	<output>
+		<name>still</name>
+		<value>'Stay still or I will enable the alarm!'</value>
+	</output>
+	<output>
+		<name>betterHide</name>
+		<value>'I better stay here. There is a spot to hide.'</value>
+	</output>
+	<output>
+		<name>mustAttack</name>
+		<value>'The guard saw me. I better attack him at once!'</value>
+	</output>
+	<output>
+		<name>attackOrLeave</name>
+		<value>'Guard has not seen me. It is better to return to previous room or attack him!'</value>
+	</output>
+	<output>
+		<name>laserAlert</name>
+		<value>You came in contact with laser and the alarm has been enabled!</value>
+	</output>
+	<output>
+		<name>laserAlreadyAlert</name>
+		<value>You came in contact with laser and now they know where you are!</value>
+	</output>
+	<output>
+		<name>cameraAlert</name>
+		<value>They saw you on camera and enabled the alarm!</value>
+	</output>
+	<output>
+		<name>cameraAlreadyAlert</name>
+		<value>They saw you on camera!</value>
+	</output>
+	<output>
+		<name>deadend</name>
+		<value>Deadend!</value>
+	</output>
+	<output>
+		<name>disableAlertWithFiles</name>
+		<value>'The alarm is disabled and I have the files in my hands! I won!'</value>
+	</output>
+	<output>
+		<name>hide</name>
+		<value>You hide for some time and the alarm is disabled.</value>
+	</output>
+	<output>
+		<name>disableSecuritySystems</name>
+		<value>You disabled the security systems (cameras and laser) in all explored rooms.</value>
+	</output>
+	<output>
+		<name>fightAndLose</name>
+		<value>You fight with the guard but he resists!</value>
+	</output>
+	<output>
+		<name>fightAndLoseEnableAlert</name>
+		<value>You fight with the guard but he resists and enables the alarm!</value>
+	</output>
+	<output>
+		<name>fightAndWin</name>
+		<value>You fight with the guard and you win!</value>
+	</output>
+	<output>
+		<name>shootClose</name>
+		<value>You use your gun from a very close distance.</value>
+	</output>
+	<output>
+		<name>shootFar</name>
+		<value>You use your gun from distance.</value>
+	</output>
+	<output>
+		<name>getFilesAndWin</name>
+		<value>'I found the files! I won!</value>
+	</output>
+	<output>
+		<name>getFilesButAlert</name>
+		<value>'I found the files! However, I have to disable the alarm as well!'</value>
+	</output>
+	<output>
+		<name>getAmmo</name>
+		<value>You find 3 ammo blips and load your gun.</value>
+	</output>
+</texts>

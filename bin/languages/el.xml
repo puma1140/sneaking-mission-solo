@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<texts>
+	<output>
+		<name>still</name>
+		<value>'Ακίνητος, διαφορετικά θα σημάνω συναγερμό!'</value>
+	</output>
+	<output>
+		<name>betterHide</name>
+		<value>'Καλύτερα να μείνω εδώ. Έχει μέρος να κρυφτώ μέχρι να ηρεμήσουν τα πράγματα.'</value>
+	</output>
+	<output>
+		<name>mustAttack</name>
+		<value>'Ο φρουρός με είδε. Καλύτερα να του επιτεθώ άμεσα!'</value>
+	</output>
+	<output>
+		<name>attackOrLeave</name>
+		<value>'Ο φρουρός δε με έχει δει. Καλύτερα είτε να επιστρέψω στο προηγούμενο δωμάτιο είτε να του επιτεθώ άμεσα!'</value>
+	</output>
+	<output>
+		<name>laserAlert</name>
+		<value>Ήρθες σε επαφή με το laser και ενεργοποιήθηκε ο συναγερμός!</value>
+	</output>
+	<output>
+		<name>laserAlreadyAlert</name>
+		<value>Ήρθες σε επαφή με το laser και γνωρίζουν πού βρίσκεσαι!</value>
+	</output>
+	<output>
+		<name>cameraAlert</name>
+		<value>Είδαν από την κάμερα πού βρίσκεσαι και ενεργοποίησαν το συναγερμό!</value>
+	</output>
+	<output>
+		<name>cameraAlreadyAlert</name>
+		<value>Είδαν από την κάμερα πού βρίσκεσαι!</value>
+	</output>
+	<output>
+		<name>deadend</name>
+		<value>Αδιέξοδος</value>
+	</output>
+	<output>
+		<name>disableAlertWithFiles</name>
+		<value>'Ο συναγερμός απενεργοποιήθηκε και έχω τα αρχεία στα χέριά μου! Κέρδισα!'</value>
+	</output>
+	<output>
+		<name>hide</name>
+		<value>Κρύβεσαι μέχρι να ηρεμήσουν τα πράγματα και ο συναγερμός απενεργοποιείται.</value>
+	</output>
+	<output>
+		<name>disableSecuritySystems</name>
+		<value>Απενεργοποίησες τα συστήματα ασφαλείας (κάμερες και laser) σε όσα δωμάτια έχεις επισκεφτεί.</value>
+	</output>
+	<output>
+		<name>fightAndLose</name>
+		<value>Μάχεσαι σώμα με σώμα με τον εχθρό αλλά εκείνος αντιστέκεται!</value>
+	</output>
+	<output>
+		<name>fightAndLoseEnableAlert</name>
+		<value>Μάχεσαι σώμα με σώμα με τον εχθρό αλλά εκείνος αντιστέκεται και ενεργοποιεί το συναγερμό!</value>
+	</output>
+	<output>
+		<name>fightAndWin</name>
+		<value>Μάχεσαι σώμα με σώμα με τον εχθρό και τον κερδίζεις!</value>
+	</output>
+	<output>
+		<name>shootClose</name>
+		<value>Χρησιμοποιείς το όπλο σου και επικρατείς του εχθρού εξ' επαφής.</value>
+	</output>
+	<output>
+		<name>shootFar</name>
+		<value>Χρησιμοποιείς το όπλο σου και επικρατείς του εχθρού από απόσταση.</value>
+	</output>
+	<output>
+		<name>getFilesAndWin</name>
+		<value>'Βρήκα τα αρχεία! Κέρδισα!</value>
+	</output>
+	<output>
+		<name>getFilesButAlert</name>
+		<value>'Βρήκα τα αρχεία! Πρέπει, όμως, να απενεργοποιήσω και το συναγερμό!'</value>
+	</output>
+	<output>
+		<name>getAmmo</name>
+		<value>Βρίσκεις 3 σφαίρες και τις βάζεις στο όπλο σου.</value>
+	</output>
+</texts>
